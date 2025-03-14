@@ -1,0 +1,28 @@
+/* Basic */
+h1 {
+    color: #3e3199;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.standout {
+    color: #c6d266;
+    font-weight: bold;
+}
+
+/* image */
+.image1 {
+    width: 50%;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+/* Hover */
+img:hover {
+    opacity: 0.8;
+    transition: 0.3s;
+}
